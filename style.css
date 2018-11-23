@@ -1,0 +1,80 @@
+* {
+	box-sizing: border-box;
+}
+.well{width:100%;height:120px; background:#E4DBFD; position:fixed; }
+.well img{height:100px; width:150px; float:left; margin-top:5px;margin-left:20px;}
+.well p{color:#1178FA; margin-left:50px; font-size:30px; margin-top:50px;}
+
+
+.home{float:right; background:#1178FA;margin-right:20px;margin-top:20px; font-size:30px; padding:5px;border-radius:15px;}
+.contact{float:right;background:#1178FA; margin-right:80px;margin-top:20px; font-size:30px; padding:5px;border-radius:15px; }
+a{ text-decoration:none; color:#ffffff;}
+.contact a{ text-decoration:none; color:#ffffff;}
+
+.content{width:100%; background:#1178FA;}
+.body img{width:100%;height:600px;margin-top:100px;}
+
+.patient{height:150px;width:470px; background:#ffffff; margin-left:50px; float:left; text-align:center;border-radius:30px;}
+.patient h1{color:#1178FA;}
+.patient p{color:#1178FA; margin-top:-15px;}
+.patient a{ text-decoration:none;font-size:25px;}
+.home1{ margin-left:0px; float:left; margin-top:20px; padding:10px; width:100px;background:#1178FA; font-size:20px; ;border-radius:10px; color:#ffffff;}
+
+.doctros{height:150px;width:470px; background:#ffffff; margin-left:90px; float:left; text-align:center;border-radius:30px;}
+.doctros h1{color:#1178FA;}
+.doctros a{text-decoration:none;font-size:25px;}
+
+.admin{height:150px;width:470px; background:#ffffff; margin-right:50px; float:right; text-align:center; border-radius:30px;}
+.admin h1{color:#1178FA;}
+.admin a{text-decoration:none; font-size:25px;}
+
+.putter{width:100%;height:100px; background:#E4DBFD; margin-top:-20px;}
+.putter p{font-size:20px; padding-top:20px;}
+
+.p_body{background:#E4DBFD;}
+.p_input{height:700px; width:500px; background:#ffffff; margin:auto; margin-top:80px; padding-left:50px; padding-right:50px;border-radius:30px;}
+.p_input #p1{font-size:50px; text-align:center; padding-top:20px;color:#1178FA;}
+.p_submit{ float:right; margin-top:20px; padding:10px; width:100px;background:#1178FA; font-size:18px; border-radius:10px; color:#ffffff;}
+#p_p{font-size:16px;}
+#p_p a{color:#1178FA; text-decoration:none;}
+#p2{margin-top:100px; font-size:16px;}
+#p2 a{color:#1178FA; text-decoration:none;}
+
+#p5{font-size:35px; text-align:center; padding-top:20px;color:#1178FA;}
+.logout{float:right;margin-right:20px; margin-top:10px;color:#ffffff;font-size:15px;}
+.title{ margin-right:50px; font-size:30px; color:#ffffff; float:right; margin-top:-0px;}
+.main p{font-size:25px; margin-left:50px; margin-top:50px;color:#1178FA; }
+.p_indexBody{background:#E4DBFD;}
+#u_profile{background:#ffffff; height:680px; width:650px; margin-left:300px; margin-top:80px; border-radius:30px;}
+#u_profile table{margin-left:40px;background:#E4DBFD;}
+#p_profile{background:#ffffff; height:680px; width:650px; margin-left:300px; margin-top:80px; border-radius:30px;}
+#p_profile{background:#ffffff; height:680px; width:650px; margin-left:300px; margin-top:80px; border-radius:30px;}
+#p_profile table{margin-left:20px;background:#E4DBFD;}
+#p_profile table tr th{height:30px;width:150px; background:gray;}
+#p_profile table tr td{height:30px;width:150px;background:#E4DBFD;}
+.p_update{ float:right; margin-top:10px; padding:10px; width:100px;background:#1178FA; font-size:15px; border-radius:10px; color:#ffffff;}
+#name{font-size:20px;}
+#p_tr{height:80px;}
+.a_indexBody{background:#E4DBFD;}
+#d_s_profile{background:#ffffff; height:800px; width:650px; margin-left:300px; margin-top:80px; border-radius:30px;}
+.d_s_input{ margin-left:50px; margin-bottom:20px;height:120px; padding:10px; width:500px; background:#E4DBFD;}
+.d_s_ok{float:right; font-size:20px; color:#1178FA; margin-right:10px; background:#ffffff;}
+.d_s_output{ margin-left:50px; margin-top:0px;height:100px; padding:10px; width:500px; background:#E4DBFD;}
+#d_s_profile table{margin-left:50px; margin-top:20px; width:500px;background:#E4DBFD; border-color:blue; border-width:3px;}
+#d_s1{height:35px; width:50px; font-size:18px; text-align:center;border-color:blue;border-width:3px;}
+#d_s2{height:35px; width:200px;font-size:18px; text-align:center;border-color:blue;border-width:3px;}
+#d_s3{height:25px; width:50px; text-align:center;border-color:blue; border-width:3px;}
+#d_s4{height:25px; width:200px; text-align:center;border-color:blue;border-width:3px;}
+.a_d_input{ margin-left:50px; margin-bottom:20px;height:500px; padding:10px; width:500px; background:#E4DBFD;}
+.a_d_input select{margin-bottom:20px; margin-top:30px; width:480px; height:40px;}
+.a_d_input input{height:40px;}
+.appoint_input{margin-left:50px; margin-bottom:20px;height:500px; padding:10px; width:500px;}
+#s_d_s_i_a{font-size:20px;}
+.appoint_input select{margin-bottom:20px; width:480px; height:40px;}
+.appoint_input input{margin-bottom:20px; width:480px; height:40px; font-size:20px; background:#fff; border-color:black;}
+
+
+
+
+
+
